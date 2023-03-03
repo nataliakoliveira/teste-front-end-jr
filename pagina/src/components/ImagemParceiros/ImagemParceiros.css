@@ -1,0 +1,92 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans:wght@200;300&family=Poppins&display=swap');
+
+.parceiros-container {
+  width: 90%;
+  margin-left: auto;
+  margin-right: auto;
+  display: flex;
+  flex-flow: row wrap;
+  margin-top: 2rem;
+  margin-bottom: 4rem;
+}
+
+.btn-parceiro{
+  background-color: #F71963;
+  font-weight: bold;
+  margin-left: 2%;
+  color: #ffffff;
+  border: none;
+  cursor: pointer;
+  width: 131px;
+  height: 3.5rem;
+  border-radius: 10px;
+  margin-top: 5%;
+  margin-bottom: 5%;
+  font-size: 16px;
+}
+
+.btn-parceiro:hover{
+background-color: #FFFFFF;
+color: #F71963;
+font-weight: bold;
+}
+
+
+.parceiro-card {
+  color: #FFFFFF;
+  align-items: center;
+  text-align: start;
+  width: 45%;
+  background-image: url(../../imgs/parceiros.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  margin-right: 10%;
+  border-radius: 8px;
+}
+
+.parceiro-card h1 {
+  color: #FFFFFF;
+  margin-left: 2%;
+  margin-top: 20%;
+  font-weight: bold;
+  font-size: 40px;
+}
+
+.parceiro-card h2 {
+  color: #FFFFFF;
+  margin-left: 2%;
+  font-size: 16px;
+  margin-right: 70%;
+  font-weight: lighter;
+  text-decoration: none;
+}
+
+.parceiro-card2 {
+  color: #FFFFFF;
+  align-items: center;
+  text-align: start;
+  width: 45%;
+  background-image: url(../../imgs/parceiros.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  border-radius: 8px;
+}
+
+.parceiro-card2 h1 {
+  color: #FFFFFF;
+  margin-left: 2%;
+  margin-top: 20%;
+  font-weight: bold;
+  font-size: 40px;
+}
+
+.parceiro-card2 h2 {
+  color: #FFFFFF;
+  margin-left: 2%;
+  font-size: 16px;
+  margin-right: 70%;
+  font-weight: lighter;
+  text-decoration: none;
+}
+
+  

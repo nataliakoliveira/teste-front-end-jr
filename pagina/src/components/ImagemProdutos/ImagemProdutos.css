@@ -1,0 +1,96 @@
+
+
+
+.linhaParc{
+   width: 90%;
+   margin-left: auto;
+   margin-right: auto;
+   display: flex;
+   flex-flow: row wrap;
+   margin-top: 2rem;
+   margin-bottom: 4rem;
+  }
+
+  
+.colunaParcProd{
+    color: #FFFFFF;
+    align-items: center;
+    text-align:start;
+    width: 45%;
+    background-image: url(../../imgs/produtosBanner.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-right: 10%;
+    border-radius: 8px;
+  }
+
+  .colunaParcProd h1{
+    color: #FFFFFF;
+    margin-left: 2%;
+    margin-top: 10%;
+    font-weight: bold;
+    font-size: 40px;
+  }
+
+  .colunaParcProd h2{
+    color: #FFFFFF;
+    margin-left: 2%;
+    font-size: 16px;
+    margin-right: 70%;
+    font-weight: lighter;
+    text-decoration: none;
+  }
+
+
+
+  .colunaParcProd2{
+    color: #FFFFFF;
+    align-items: center;
+    text-align:start;
+    width: 45%;
+    background-image: url(../../imgs/produtosBanner.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 8px;
+  }
+
+  .colunaParcProd2 h1{
+    color: #FFFFFF;
+    margin-left: 2%;
+    margin-top: 10%;
+    font-weight: bold;
+    font-size: 40px;
+  }
+
+  .colunaParcProd2 h2{
+    color: #FFFFFF;
+    margin-left: 2%;
+    font-size: 16px;
+    margin-right: 70%;
+    font-weight: lighter;
+    text-decoration: none;
+  }
+
+
+  .btnParc{
+    background-color: #F71963;
+    font-weight: bold;
+    margin-left: 2%;
+    color: #ffffff;
+    border: none;
+    cursor: pointer;
+    width: 14rem;
+    height: 3.5rem;
+    border-radius: 10px;
+    margin-top: 5%;
+    margin-bottom: 5%;
+    font-size: 120%;
+}
+
+.btnParc:hover{
+  background-color: #FFFFFF;
+  color: #F71963;
+  font-weight: bold;
+}
+
+  

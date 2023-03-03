@@ -1,0 +1,63 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans:wght@200;300&family=Poppins&display=swap');
+
+.banner-container {
+  background-image: url("../../imgs/background.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  display: flex;
+  flex-flow: row wrap;
+  height: 100%;
+  margin-left: auto;
+  margin-right: auto;
+  mask-image: linear-gradient(to top, black 52%, black 48%);
+  opacity: 0.99;
+  -webkit-mask-image: linear-gradient(to top, black 52%, black 48%);
+  width: 100%;
+}
+
+.banner-content {
+  align-items: center;
+  text-align: start;
+  width: 50%;
+}
+
+.banner-title {
+  color: #ffffff;
+  font-size: 48px;
+  margin-left: 3rem;
+  opacity: 1;
+  padding-top: 3rem;
+  text-shadow: #000 2px 3px 2px;
+}
+
+.banner-subtitle {
+  color: #ffffff;
+  font-size: 36px;
+  margin-left: 3rem;
+  text-shadow: #000 2px 3px 2px;
+}
+
+.banner-btn {
+  background-color: #F71963;
+  margin-left: 3rem;
+  color: #ffffff;
+  border: none;
+  cursor: pointer;
+  width: 14rem;
+  height: 3rem;
+  border-radius: 5px;
+  margin-top: 1.5rem;
+  margin-bottom: 2rem;
+  font-size: 18px;
+}
+
+.banner-btn:hover {
+  background-color: #FFFFFF;
+  color: #F71963;
+}
+
+.banner-image {
+  align-items: center;
+  text-align: start;
+  width: 50%;
+}

@@ -1,0 +1,32 @@
+footer{
+    background-color: #2A2A2A;;
+    padding: 5px 0;
+}
+.container-footerBottom{
+    border-top: solid 2px;
+    color: #ffffff;
+    max-width: 100%;
+    padding: 0 4%;
+    margin: auto;
+    display: flex;
+    flex-flow: row wrap;
+}
+
+.coluna-footerBottom {
+    padding-top: 1rem;
+    color: #ffffff;
+    font-size: 10px;
+    text-transform: uppercase;
+    font-weight: lighter;
+    align-items: center;
+    width: 75%;
+    padding-left: 1.5rem;
+  }
+  
+  .coluna-footerBottom2 {
+    padding-top: 0.5rem;
+    align-items: center;
+    width: 15%;
+    padding-left: 1.5rem;
+  }
+  

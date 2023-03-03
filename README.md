@@ -25,3 +25,8 @@ Execute Teste Econverse
   cd pagina
   npm start
 ```
+## Aplicação rodando
+
+
+https://user-images.githubusercontent.com/101902207/222624484-561dbc45-acb3-4766-866a-08ad2faf9685.mp4
+
